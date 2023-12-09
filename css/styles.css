@@ -44,6 +44,7 @@ body {
 }
 .index-first-section {
   background-color: var(--list-color);
+  padding: 188px 0;
 }
 .section-one-title {
   font-size: 56px;
