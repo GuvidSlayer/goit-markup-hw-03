@@ -52,6 +52,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
+  max-width: 496px;
 }
 .button {
   font-family: "Roboto", sans-serif;
@@ -73,6 +74,10 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  display: block;
+  min-width: 169px;
+  height: 56px;
+  border-radius: 4px;
 }
 .button-index:hover {
   background-color: #404bbf;
@@ -169,4 +174,6 @@ body {
 .header-nav {
   display: flex;
   align-items: center;
+}
+.section-one-div {
 }
