@@ -41,6 +41,7 @@ body {
   background-color: #ffffffff;
   display: flex;
   gap: 40px;
+  width: calc((100% - 72px) / 4);
 }
 .index-first-section {
   background-color: var(--list-color);
@@ -100,6 +101,7 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--list-color);
+  margin-bottom: 8px;
 }
 .paragraphs {
   line-height: 1.5;
