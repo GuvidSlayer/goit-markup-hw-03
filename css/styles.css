@@ -149,3 +149,26 @@ body {
   color: var(--footer-color);
   letter-spacing: 0.02em;
 }
+
+.header-class {
+  border-bottom: 1px solid #e7e9fc;
+}
+.header-div {
+  display: flex;
+}
+.container {
+  width: 1158px;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+.header-nav {
+  display: flex;
+  align-items: center;
+}
+.header-logo {
+  margin-right: 76px;
+}
+.header-menu {
+  display: flex;
+  gap: 40px;
+}
