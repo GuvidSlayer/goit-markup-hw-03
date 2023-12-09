@@ -38,6 +38,8 @@ body {
 .list {
   list-style: none;
   background-color: #ffffffff;
+  display: flex;
+  gap: 40px;
 }
 .index-first-section {
   background-color: var(--list-color);
@@ -165,9 +167,4 @@ body {
 .header-nav {
   display: flex;
   align-items: center;
-}
-
-.header-menu {
-  display: flex;
-  gap: 40px;
 }
