@@ -41,7 +41,7 @@ body {
   background-color: #ffffffff;
   display: flex;
   gap: 40px;
-  width: calc((100% - 72px) / 4);
+  display: flex;
 }
 .index-first-section {
   background-color: var(--list-color);
@@ -101,7 +101,6 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--list-color);
-  margin-bottom: 8px;
 }
 .paragraphs {
   line-height: 1.5;
@@ -119,6 +118,7 @@ body {
   text-align: center;
   text-transform: capitalize;
   color: var(--list-color);
+  margin-bottom: 72px;
 }
 .second-section {
   background-color: #f4f4fd;
@@ -191,4 +191,7 @@ body {
   position: absolute;
   white-space: nowrap;
   width: 1px;
+}
+.third-section {
+  padding-bottom: 120px;
 }
