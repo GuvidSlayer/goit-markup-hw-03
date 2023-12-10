@@ -42,7 +42,7 @@ body {
   list-style: none;
   background-color: #ffffffff;
   display: flex;
-  gap: 40px;
+  gap: 40px;s
   display: flex;
   gap: 24px;
 }
@@ -231,4 +231,8 @@ img {
 }
 .header-portfolio-div {
   display: flex;
+}
+
+.portfolio-nav {
+  align-items: center;
 }
