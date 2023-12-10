@@ -110,6 +110,8 @@ body {
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--list-color);
+  margin-bottom: 8px;
+  width: calc((100% - 72px) / 4);
 }
 .paragraphs {
   line-height: 1.5;
