@@ -143,6 +143,7 @@ body {
 }
 .list-element {
   background-color: #ffffffff;
+  border-radius: 0px 0px 4px 4px 4px;
 }
 .footer {
   background-color: var(--list-color);
