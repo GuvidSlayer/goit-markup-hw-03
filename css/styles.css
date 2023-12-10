@@ -42,6 +42,7 @@ body {
   display: flex;
   gap: 40px;
   display: flex;
+  gap: 24px;
 }
 .index-first-section {
   background-color: var(--list-color);
@@ -122,6 +123,7 @@ body {
 }
 .second-section {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 .section-three-title {
   font-size: 36px;
@@ -130,6 +132,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--list-color);
+  margin-bottom: 72px;
 }
 .second-title {
   font-weight: 500;
