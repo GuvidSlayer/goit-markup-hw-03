@@ -42,7 +42,7 @@ body {
   list-style: none;
   background-color: #ffffffff;
   display: flex;
-  gap: 40px;s
+  gap: 40px;
   display: flex;
   gap: 24px;
 }
@@ -200,10 +200,9 @@ body {
   display: flex;
   align-items: center;
 }
-.section-one-div {
-}
 .first-section {
   padding: 120px 0;
+  padding-top: 96px;
 }
 .visually-hidden {
   clip: rect(0 0 0 0);
