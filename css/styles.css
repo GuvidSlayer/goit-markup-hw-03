@@ -46,6 +46,12 @@ body {
   display: flex;
   gap: 24px;
 }
+.h-list-first {
+  margin-right: 40px;
+}
+.h-list-last {
+  margin-right: 0;
+}
 .index-first-section {
   background-color: var(--list-color);
   padding: 188px 0;
