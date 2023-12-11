@@ -57,7 +57,10 @@ body {
 }
 .extras {
   flex-basis: calc((100% - 48px) / 3);
-  gap: 24px;
+  margin-right: 24px;
+}
+.extras:last-child {
+  margin-right: 0;
 }
 .list :last-child {
   margin-right: 0;
