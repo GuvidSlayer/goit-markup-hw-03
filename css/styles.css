@@ -303,3 +303,6 @@ img {
 .port-list {
   column-gap: 24px;
 }
+.port-list:last-child {
+  margin-right: 0;
+}
