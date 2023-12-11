@@ -57,7 +57,8 @@ body {
   flex-basis: calc((100% - 3 * 24px) / 4);
 }
 .extras {
-  width: calc((100% - 3 * 16px) / 3);
+  flex-basis: calc((100% - 48px) / 3);
+  gap: 24px;
 }
 .list :last-child {
   margin-right: 0;
