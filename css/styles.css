@@ -259,3 +259,6 @@ img {
 .portfolio-nav {
   align-items: center;
 }
+.portfolio-div {
+  gap: 24px;
+}
