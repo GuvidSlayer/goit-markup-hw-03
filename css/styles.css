@@ -254,10 +254,7 @@ body {
   align-items: center;
 }
 .first-section {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  padding-top: 96px;
-  padding: 120px 0;
+  padding: 96px 0 120px 0;
 }
 .visually-hidden {
   position: absolute;
@@ -296,4 +293,10 @@ img {
 }
 .portfolio-div {
   gap: 24px;
+}
+.button-list {
+  margin-right: 24px;
+}
+.button-list:last-child {
+  margin-right: 0;
 }
