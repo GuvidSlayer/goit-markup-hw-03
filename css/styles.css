@@ -255,6 +255,8 @@ body {
 }
 .first-section {
   padding: 120px 0;
+  padding-top: 96px;
+  padding-bottom: 120px;
 }
 .visually-hidden {
   position: absolute;
