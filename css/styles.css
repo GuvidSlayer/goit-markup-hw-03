@@ -51,6 +51,7 @@ body {
 }
 .h-list-first {
   margin-right: 40px;
+  gap: 40px;
 }
 .h-list-last {
   margin-right: 0;
