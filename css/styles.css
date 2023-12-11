@@ -303,6 +303,6 @@ img {
 .port-list {
   margin-right: 24px;
 }
-.port-list:last-child {
+.port-list:nth-child(3n) {
   margin-right: 0;
 }
