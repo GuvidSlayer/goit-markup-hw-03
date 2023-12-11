@@ -53,6 +53,10 @@ body {
   min-width: 264px;
   margin-right: 24px;
 }
+.extra {
+  flex-basis: calc((100% - 3 * 24px) / 4);
+}
+
 .list :last-child {
   margin-right: 0;
   gap: 40px;
