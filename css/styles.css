@@ -300,3 +300,6 @@ img {
 .button-list:last-child {
   margin-right: 0;
 }
+.port-list {
+  column-gap: 24px;
+}
