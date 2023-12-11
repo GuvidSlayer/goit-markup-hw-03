@@ -55,9 +55,24 @@ body {
 }
 .list :last-child {
   margin-right: 0;
+  gap: 40px;
 }
-.port-list {
-  width: calc((100% - 48px) / 3);
+.list-index {
+  list-style: none;
+  background-color: #ffffffff;
+  display: flex;
+  gap: 40px;
+  gap: 24px;
+  margin-bottom: 72px;
+  flex-wrap: wrap;
+  justify-content: center;
+  row-gap: 48px;
+  width: 100%;
+  min-width: 264px;
+  margin-right: 24px;
+  width: calc((100% - 72px) / 4);
+}
+.button {
 }
 .portfolio-img-div {
   padding: 32px 16px;
@@ -99,7 +114,6 @@ body {
   border-radius: 4px;
   border: 1px solid;
   color: var(--buttons-var);
-  gap: 24px;
 }
 .button-index {
   background-color: #4d5ae5;
@@ -267,6 +281,7 @@ img {
 
 .portfolio-nav {
   align-items: center;
+  display: flex;
 }
 .portfolio-div {
   gap: 24px;
