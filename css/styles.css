@@ -206,13 +206,15 @@ body {
 }
 .list-element {
   background-color: #ffffffff;
+
+  margin-right: 24px;
+}
+.listelement {
   border-top-left-radius: 0px;
   border-top-right-radius: 0px;
   border-top-right-radius: 4px;
   border-bottom-left-radius: 4px;
-  margin-right: 24px;
 }
-
 .list-element:last-child {
   margin-right: 0;
 }
