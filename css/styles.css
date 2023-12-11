@@ -62,7 +62,6 @@ body {
 .list :last-child {
   margin-right: 0;
   gap: 40px;
-  gap: 24px;
 }
 .list-index {
   list-style: none;
