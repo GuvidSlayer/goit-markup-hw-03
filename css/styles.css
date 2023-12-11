@@ -301,7 +301,7 @@ img {
   margin-right: 0;
 }
 .port-list {
-  column-gap: 24px;
+  margin-right: 24px;
 }
 .port-list:last-child {
   margin-right: 0;
