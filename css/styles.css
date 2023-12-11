@@ -207,12 +207,10 @@ body {
 .list-element {
   background-color: #ffffffff;
   margin-right: 24px;
+  border-radius: 0px 0px 4px 4px;
 }
 .list-element:last-child {
   margin-right: 0;
-}
-.last-element {
-  border-radius: 0px 0px 4px 4px;
 }
 .footer {
   background-color: var(--list-color);
