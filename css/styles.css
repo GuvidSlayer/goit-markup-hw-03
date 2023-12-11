@@ -6,6 +6,7 @@
   --footer-color: #f4f4fd;
   --address-info-color: #434455;
   --buttons-var: #e7e9fc;
+  --pink: --pink;
 }
 body {
   font-family: "Roboto", sans-serif;
