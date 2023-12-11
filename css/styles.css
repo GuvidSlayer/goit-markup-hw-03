@@ -49,6 +49,10 @@ body {
   margin-bottom: 72px;
   flex-wrap: wrap;
   justify-content: center;
+  row-gap: 48px;
+}
+.port-list {
+  width: calc((100% - 48px) / 3);
 }
 .h-list-first {
   margin-right: 40px;
