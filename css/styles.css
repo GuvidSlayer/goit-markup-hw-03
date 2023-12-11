@@ -206,10 +206,9 @@ body {
 }
 .list-element {
   background-color: #ffffffff;
-  border-radius: 0px 0px 4px 4px 4px;
+  border-radius: 4px;
   margin-right: 24px;
 }
-
 .list-element:last-child {
   margin-right: 0;
 }
