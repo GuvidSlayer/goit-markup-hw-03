@@ -206,14 +206,16 @@ body {
 }
 .list-element {
   background-color: #ffffffff;
-  border-top-left-radius: 0px;
-  border-top-right-radius: 0px;
-  border-top-right-radius: 4px;
-  border-bottom-left-radius: 4px;
   margin-right: 24px;
 }
 .list-element:last-child {
   margin-right: 0;
+}
+.last-element {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-top-right-radius: 4px;
+  border-bottom-left-radius: 4px;
 }
 .footer {
   background-color: var(--list-color);
