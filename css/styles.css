@@ -51,6 +51,10 @@ body {
   row-gap: 48px;
   width: 100%;
   min-width: 264px;
+  margin-right: 24px;
+}
+.list :last-child {
+  margin-right: 0;
 }
 .port-list {
   width: calc((100% - 48px) / 3);
@@ -228,6 +232,7 @@ body {
   padding-top: 120px;
   padding-bottom: 120px;
   padding-top: 96px;
+  padding: 120px 0;
 }
 .visually-hidden {
   position: absolute;
