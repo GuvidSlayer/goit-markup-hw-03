@@ -64,9 +64,10 @@ body {
   margin-right: 40px;
   gap: 40px;
 }
-.last {
+.h-list-first:last-child {
   margin-right: 0;
 }
+
 .index-first-section {
   background-color: var(--list-color);
   padding: 188px 0;
